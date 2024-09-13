@@ -177,6 +177,42 @@ Notes
 This cake is often enjoyed during special occasions in Chile, such as birthdays and national celebrations. The combination of crispy layers and sweet filling makes it a favorite among many.
 Enjoy your homemade Torta Milhojas, a delightful representation of Chilean culinary tradition!
 
+### Brazo de Reina
+
+To make a delicious Brazo de Reina, a traditional Chilean rolled cake filled with dulce de leche, follow this recipe. This dessert is known for its light sponge cake and rich caramel filling, often topped with coconut.
+Ingredients
+For the Cake:
+5 large eggs, at room temperature
+¾ cup caster sugar (or granulated sugar blended to a fine powder)
+1 cup cake flour, sifted
+1 teaspoon vanilla extract
+¼ teaspoon salt
+For the Filling:
+1 ½ cups dulce de leche (manjar)
+Optional: shredded coconut for topping
+Instructions
+Preheat the Oven:
+Preheat your oven to 325°F (160°C). Line a jelly roll pan (or a shallow baking sheet) with parchment paper and lightly grease it.
+Prepare the Batter:
+In a large bowl, separate the egg yolks and whites. In a bowl with the yolks, add half of the sugar and beat until the mixture is pale and creamy. Stir in the vanilla extract.
+In another bowl, beat the egg whites with a pinch of salt until soft peaks form. Gradually add the remaining sugar and continue beating until stiff peaks form.
+Gently fold the egg yolk mixture into the egg whites. Sift the flour over the mixture and fold gently until just combined.
+Bake the Cake:
+Pour the batter into the prepared pan and spread it evenly. Bake for 8-10 minutes, or until the edges are lightly golden and the center springs back when touched.
+Once baked, remove from the oven and immediately turn the cake out onto a clean kitchen towel dusted with powdered sugar. Peel off the parchment paper.
+Roll the Cake:
+While the cake is still warm, roll it up tightly with the towel, starting from one short end. Let it cool completely in this rolled shape.
+Fill the Cake:
+Once cooled, carefully unroll the cake. Spread the dulce de leche evenly over the surface, leaving a small border around the edges.
+Roll the cake back up without the towel, ensuring it’s tight but not too tight to avoid tearing.
+Decorate:
+Place the rolled cake seam-side down on a serving platter. Spread additional dulce de leche over the top and sprinkle with shredded coconut if desired.
+Chill and Serve:
+Refrigerate for at least 30 minutes to set. Slice and serve chilled or at room temperature.
+Notes
+This cake is often enjoyed during afternoon tea or special occasions in Chile. Variations may include different fillings like fruit jams or chocolate cream.
+Enjoy your homemade Brazo de Reina, a delightful treat that showcases the rich flavors of Chilean cuisine!
+
 ### Banana bread
 
 Ingredients:

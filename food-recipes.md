@@ -8,6 +8,7 @@
 - [Entrees](#entrees)
   - [Spaghetti and Meatballs](#spaghetti-and-meatballs)
   - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
+  - [Cheese Empanadas](#cheese-empanadas)
 - [Desserts](#desserts)
   - [Chocolate Chip Cookies](#chocolate-chip-cookies)
   - [Banana bread](#banana-bread)
@@ -104,6 +105,42 @@ Instructions:
 4. Top each chicken breast with a slice of Swiss cheese and let melt.
 5. Toast hamburger buns on the grill.
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
+
+### Cheese Empanadas
+
+Here's a simple and delicious recipe for Cheese Empanadas that you can easily make at home. This recipe features a flaky dough filled with cheese, perfect for frying or baking.
+Ingredients
+For the Dough:
+3 cups all-purpose flour
+½ teaspoon salt
+12 tablespoons cold unsalted butter, cut into cubes
+1 large egg
+½ cup ice-cold water
+For the Filling:
+1 lb shredded cheese (such as Monterey Jack or Pepper Jack)
+1 large egg (for egg wash)
+For Frying:
+Vegetable oil (enough for deep frying)
+Instructions
+Prepare the Dough:
+In a food processor, pulse together the flour and salt until combined.
+Add the cold butter and pulse until the mixture resembles coarse meal (about 15 pulses).
+In a small bowl, whisk together the egg and ice-cold water. Pour this mixture into the food processor and pulse until the dough starts to clump together but is still crumbly.
+Chill the Dough:
+Turn the dough out onto a lightly floured surface and shape it into a ball. Divide the ball in half and flatten each half into a disk. Wrap each disk in plastic wrap and refrigerate for at least 1 hour.
+Roll Out the Dough:
+Preheat your oven to 400°F (200°C) if baking. Roll out one disk of dough to about ⅛ inch thickness on a floured surface. Cut into circles about 5 inches in diameter.
+Fill the Empanadas:
+Place about 2 tablespoons of shredded cheese in the center of each circle. Dampen the edges of the dough with water using your finger or a brush. Fold the dough over to create a half-moon shape and press the edges firmly to seal. You can crimp the edges with a fork for a decorative touch.
+Cooking Options:
+To Fry: Heat vegetable oil in a deep skillet over medium-high heat. Fry the empanadas in batches for about 2-3 minutes on each side, or until golden brown. Remove and drain on paper towels.
+To Bake: Place the filled empanadas on a parchment-lined baking sheet. Whisk the remaining egg with a tablespoon of water and brush the tops of the empanadas. Bake for 20-25 minutes or until golden brown.
+Serve:
+Enjoy the empanadas warm, either plain or with your favorite dipping sauce.
+Tips
+You can mix different types of cheese for varied flavors.
+For a sweeter twist, sprinkle some sugar on top before baking, a common practice in some Latin American countries.
+This recipe yields about 12 empanadas and is perfect for appetizers or snacks! Enjoy your homemade cheese empanadas!
 
 ## Desserts
 

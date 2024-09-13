@@ -156,12 +156,10 @@ Ingredients:
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
 - 2 eggs
-  <<<<<<< HEAD
 - 2 tsp vanilla extract
-- # 4 cups semisweet chocolate chips
+- 4 cups semisweet chocolate chips
 - 2 tsp vanilla extractg
 - 5 cups semisweet chocolate chips
-  > > > > > > > entrees
 
 Instructions:
 

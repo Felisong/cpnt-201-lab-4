@@ -10,6 +10,7 @@
   - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
   - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+  - [Torta de Milhojas](#torta-de-milhojas)
   - [Banana bread](#banana-bread)
 
 ## Appetizers
@@ -130,6 +131,44 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Torta de Milhojas
+
+To prepare a traditional Torta Milhojas (Thousand Layers Cake), a beloved Chilean dessert, follow this detailed recipe. This cake features layers of crispy dough filled with rich dulce de leche and often includes walnuts for added texture.
+Ingredients
+For the Dough:
+3 cups sifted flour
+250 grams (8 oz) unsalted butter, at room temperature
+3 egg yolks, at room temperature
+3/4 cup milk
+1 tablespoon rum or pisco
+1 pinch of salt
+For the Filling:
+3 cups dulce de leche (or caramel)
+2 1/2 cups chopped walnuts
+1/4 cup powdered sugar
+Instructions
+Prepare the Dough:
+In a large bowl, combine the flour and salt. Add the butter in chunks, egg yolks, milk, and rum or pisco. Mix using a fork or a stand mixer with a paddle attachment until a medium consistency dough forms. Avoid using your hands to prevent the butter from melting.
+Wrap the dough in plastic wrap and refrigerate for at least 6 hours, preferably overnight.
+Preheat the Oven:
+Preheat your oven to 350°F (180°C).
+Roll Out the Dough:
+Divide the chilled dough into 14 equal portions. Roll each piece on a floured surface until very thin (about 1/8 inch thick). Use a plate to cut circles approximately 8-9 inches in diameter.
+Pierce each circle with a fork to prevent puffing during baking.
+Bake the Dough:
+Place the circles on an ungreased baking sheet and bake for 5-7 minutes, or until golden. Allow them to cool completely on a wire rack.
+Assemble the Cake:
+Take one baked circle and spread 3-4 tablespoons of dulce de leche on top. Sprinkle some chopped walnuts over the dulce de leche.
+Repeat layering with the remaining circles, alternating between layers of dulce de leche and walnuts. Typically, you can add walnuts every three layers.
+Once all layers are stacked, cover the entire cake with a thin layer of dulce de leche.
+Decorate:
+For decoration, mix the remaining walnuts with powdered sugar and sprinkle it on top of the cake.
+Chill and Serve:
+Cover the cake and let it rest in the refrigerator for several hours or overnight to allow the flavors to meld. Serve at room temperature.
+Notes
+This cake is often enjoyed during special occasions in Chile, such as birthdays and national celebrations. The combination of crispy layers and sweet filling makes it a favorite among many.
+Enjoy your homemade Torta Milhojas, a delightful representation of Chilean culinary tradition!
 
 ### Banana bread
 

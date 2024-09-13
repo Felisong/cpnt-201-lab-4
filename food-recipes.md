@@ -212,8 +212,8 @@ Ingredients:
 
 - 2 1/4 cups all-purpose flour
 - 1 tsp baking soda
-- 2 tsp salt
-- 110 cup unsalted butter, softened
+- 1 tsp salt
+- 1 cup unsalted butter, softened
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
 - 2 eggs
@@ -231,4 +231,3 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
-10. ENJOY UR DELICIOUS COOKIES!!!!

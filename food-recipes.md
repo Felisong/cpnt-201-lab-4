@@ -96,7 +96,6 @@ Ingredients:
 - Mayonnaise
 - Cilantro
 - 1 egg sunny side
-- A whole lotta love
 
 Instructions:
 

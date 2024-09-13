@@ -69,6 +69,7 @@ Ingredients:
 - Salt and pepper to taste
 - 2 cups breadsticks
 - 1 jar (24 oz) spaghetti sauce
+- oregano to taste
 
 Instructions:
 
@@ -116,7 +117,7 @@ Ingredients:
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
 - 2 eggs
-- 2 tsp vanilla extract
+- 2 tsp vanilla extractg
 - 5 cups semisweet chocolate chips
 
 Instructions:
